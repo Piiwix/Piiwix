@@ -2,7 +2,7 @@
 
 ---
 
-<img align="left" alt="Piiwix's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Piiwix&show_icons=true&hide_border=true&theme=tokyonight&bg_color=1b1c19"/>
+<img align="left" alt="Piwix Stats" src="https://github-readme-stats.vercel.app/api?username=Piiwix&show_icons=true&hide_border=true&theme=tokyonight&bg_color=1b1c19"/>
 
 <!--
 **Piiwix/Piiwix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
