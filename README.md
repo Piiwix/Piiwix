@@ -12,4 +12,4 @@
 
 <img align="left" alt="Piiwix Github Stats" src="https://github-readme-stats.vercel.app/api?username=Piiwix&show_icons=true&hide_border=true&theme=tokyonight&bg_color=1b1c19&custom_title=Piwix Stats&include_all_commits=true"/>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=piwix&" alt="piwix" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=piwix&" alt="piwix" />
