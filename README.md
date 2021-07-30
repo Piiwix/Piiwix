@@ -4,7 +4,7 @@
 
 <h3 align="center">Informations about me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/channel/UCcN_970VBKtU9npGyrAiiBQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uccn_970vbktu9npgyraiibq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCcN_970VBKtU9npGyrAiiBQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uccn_970vbktu9npgyraiibq" height="30" width="40" /> </a> <img align="center" alt="Discord Badge" src="https://discord-md-badge.vercel.app/api/shield/332100222648057866&?logoColor=presence" width="100"/> </a>
 </p>
 
 <h3 align="center">Programmations Languages:</h3>
